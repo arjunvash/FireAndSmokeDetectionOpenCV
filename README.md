@@ -7,7 +7,7 @@ An AI-powered computer vision project that detects **fire and smoke in real-time
 ## 🚀 Features
 
 - 🔍 Detects **Fire**, **Smoke**, and **No Fire/Smoke**
-- 📷 Works with images, videos, and live webcam
+- 📷 Works with images.
 - ⚡ Real-time detection using OpenCV
 - 🧠 Deep Learning model (CNN)
 - 📊 High accuracy classification
@@ -16,7 +16,7 @@ An AI-powered computer vision project that detects **fire and smoke in real-time
 
 ## 🛠️ Technologies Used
 
-- Python 🐍
+- Python 
 - OpenCV
 - TensorFlow / Keras
 - NumPy
